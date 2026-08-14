@@ -34,7 +34,7 @@ A newly graduated computer science student who has practiced a large number of L
 
 However, **being able to solve LeetCode problems quickly does not mean that a person can design a high-quality software system, much less independently complete a complex engineering project.**
 
-Problem practice trains the ability to find correct answers within relatively clear rules and boundaries.
+**Problem practice trains the ability to find correct answers within relatively clear rules and boundaries.**
 
 **Real-world problems, however, often have no standard answer at all.**
 
@@ -102,7 +102,7 @@ You may not even know:
 
 Therefore, **even if a person can solve a large number of extremely difficult Olympiad problems, that does not mean they possess the ability to solve historic mathematical problems.**
 
-The greater the difficulty of a problem, the closer it is not necessarily to genuine research ability.
+**The greater the difficulty of a problem, the closer it is not necessarily to genuine research ability.**
 
 **These are two different dimensions and cannot simply be equated.**
 
