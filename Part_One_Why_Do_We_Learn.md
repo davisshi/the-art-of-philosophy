@@ -1,5 +1,7 @@
 # Part One: Why Do We Learn?
 
+![Part One - Why Do We Learn.jpeg](images/Part%20One%20-%20Why%20Do%20We%20Learn.jpeg)
+
 ## From Grinding Through Olympiad Problems to Solving Complex Problems: **What Truly Determines How Far a Person Can Go Is Systems Thinking, Not the Number of Problems They Solve**
 
 ### The Core Question
