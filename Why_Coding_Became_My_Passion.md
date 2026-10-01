@@ -1,5 +1,7 @@
 # Why Coding Became My Passion
 
+![Why_Coding_Became_My_Passion.png](images/Why_Coding_Became_My_Passion.png)
+
 Coding is far more than a profession to me — it is a passion, a form of art, and a way of understanding the world itself.
 
 To many people, code may appear to be nothing more than cold symbols and rigid logic.  
